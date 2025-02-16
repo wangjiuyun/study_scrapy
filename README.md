@@ -1,0 +1,2 @@
+# study_scrapy
+关于对于python的爬虫学习，这只是关于图书的py脚本的学习和锻炼
